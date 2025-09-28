@@ -1,0 +1,40 @@
+Disease,Intensity
+Common Cold,Mild
+Seasonal Allergies,Mild
+Migraine,Mild
+Food Poisoning,Mild
+Bronchitis,Mild
+Hypertension,Mild
+Anemia,Mild
+Gastritis,Mild
+Chickenpox,Mild
+Urinary Tract Infection (UTI),Mild
+Influenza (Flu),Serious
+Pneumonia,Serious
+Asthma,Serious
+Tuberculosis,Serious
+Chronic Kidney Disease,Serious
+Liver Cirrhosis,Serious
+Hepatitis,Serious
+Diabetes,Serious
+Arthritis,Serious
+Epilepsy,Serious
+Parkinson’s Disease,Serious
+Alzheimer’s Disease,Serious
+Cancer (General),Serious
+Chronic Obstructive Pulmonary Disease (COPD),Serious
+Peptic Ulcer Disease,Serious
+Heart Attack (Myocardial Infarction),Emergency
+Stroke,Emergency
+Pulmonary Embolism,Emergency
+Sepsis,Emergency
+Meningitis,Emergency
+Appendicitis (Ruptured),Emergency
+Severe Trauma,Emergency
+Anaphylaxis,Emergency
+Diabetic Ketoacidosis (DKA),Emergency
+Acute Kidney Failure,Emergency
+Respiratory Failure,Emergency
+Hemorrhagic Shock,Emergency
+Intracranial Hemorrhage,Emergency
+Tetanus,Emergency

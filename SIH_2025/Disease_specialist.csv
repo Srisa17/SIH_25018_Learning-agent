@@ -1,0 +1,129 @@
+Disease,Specialist
+Diabetes,Endocrinologist
+Hypertension,Cardiologist
+Tuberculosis,Pulmonologist
+Asthma,Pulmonologist
+Pneumonia,Pulmonologist
+Heart Attack,Cardiologist
+Stroke,Neurologist
+Kidney Stones,Urologist
+Hepatitis,Hepatologist
+Anemia,Hematologist
+Malaria,Infectious Disease Specialist
+Typhoid,Infectious Disease Specialist
+Arthritis,Rheumatologist
+Cancer,Oncologist
+Migraine,Neurologist
+COVID-19,Infectious Disease Specialist
+Dengue,Infectious Disease Specialist
+Cholera,Gastroenterologist
+HIV/AIDS,Infectious Disease Specialist
+Gastritis,Gastroenterologist
+Gallstones,Gastroenterologist
+Epilepsy,Neurologist
+Leukemia,Hematologist
+Pancreatitis,Gastroenterologist
+Obstructive Sleep Apnea,Pulmonologist
+Allergic Rhinitis,Allergist
+Tuberculosis Meningitis,Neurologist
+Lung Cancer,Oncologist
+Osteoporosis,Endocrinologist
+Thyroid Disorder,Endocrinologist
+Psoriasis,Dermatologist
+Eczema,Dermatologist
+Glaucoma,Ophthalmologist
+Cataract,Ophthalmologist
+Otitis Media,ENT Specialist
+Sinusitis,ENT Specialist
+Appendicitis,General Surgeon
+Peptic Ulcer,Gastroenterologist
+Cirrhosis,Hepatologist
+Multiple Sclerosis,Neurologist
+Parkinson’s Disease,Neurologist
+Alzheimer’s Disease,Neurologist
+Depression,Psychiatrist
+Schizophrenia,Psychiatrist
+Bipolar Disorder,Psychiatrist
+Autism,Neurologist
+ADHD,Psychiatrist
+Infertility,Reproductive Endocrinologist
+Prostate Cancer,Urologist
+Endometriosis,Gynecologist
+PCOS,Gynecologist
+Breast Cancer,Oncologist
+Skin Cancer,Oncologist
+Leprosy,Infectious Disease Specialist
+Varicose Veins,Vascular Surgeon
+Hemorrhoids,General Surgeon
+Gout,Rheumatologist
+Lupus,Rheumatologist
+Celiac Disease,Gastroenterologist
+Crohn’s Disease,Gastroenterologist
+Ulcerative Colitis,Gastroenterologist
+Oral Cancer,Oncologist
+Esophageal Cancer,Oncologist
+Liver Cancer,Oncologist
+Pancreatic Cancer,Oncologist
+Stomach Cancer,Oncologist
+Colorectal Cancer,Oncologist
+Brain Tumor,Neurosurgeon
+Spinal Tumor,Neurosurgeon
+Astigmatism,Ophthalmologist
+Macular Degeneration,Ophthalmologist
+Retinal Detachment,Ophthalmologist
+Tonsillitis,ENT Specialist
+Meniere’s Disease,ENT Specialist
+Hearing Loss,ENT Specialist
+Vertigo,ENT Specialist
+Epistaxis (Nosebleed),ENT Specialist
+Chronic Bronchitis,Pulmonologist
+COPD,Pulmonologist
+Interstitial Lung Disease,Pulmonologist
+Pulmonary Embolism,Pulmonologist
+Pleurisy,Pulmonologist
+Sepsis,Infectious Disease Specialist
+Measles,Infectious Disease Specialist
+Chickenpox,Infectious Disease Specialist
+Mumps,Infectious Disease Specialist
+Rubella,Infectious Disease Specialist
+Whooping Cough,Infectious Disease Specialist
+Polio,Infectious Disease Specialist
+Tetanus,Infectious Disease Specialist
+Rabies,Infectious Disease Specialist
+Scarlet Fever,Infectious Disease Specialist
+Ringworm,Dermatologist
+Vitiligo,Dermatologist
+Acne,Dermatologist
+Alopecia,Dermatologist
+Melanoma,Oncologist
+Chronic Kidney Disease,Nephrologist
+Glomerulonephritis,Nephrologist
+Nephrotic Syndrome,Nephrologist
+Bladder Cancer,Urologist
+Kidney Cancer,Urologist
+Testicular Cancer,Urologist
+Endocarditis,Cardiologist
+Aortic Aneurysm,Vascular Surgeon
+Deep Vein Thrombosis,Vascular Surgeon
+Peripheral Artery Disease,Vascular Surgeon
+Hemophilia,Hematologist
+Thalassemia,Hematologist
+Sickle Cell Disease,Hematologist
+Myeloma,Hematologist
+Hyperthyroidism,Endocrinologist
+Hypothyroidism,Endocrinologist
+Cushing’s Syndrome,Endocrinologist
+Addison’s Disease,Endocrinologist
+Pituitary Tumor,Endocrinologist
+Gestational Diabetes,Endocrinologist
+Dystonia,Neurologist
+Cerebral Palsy,Neurologist
+Guillain-Barre Syndrome,Neurologist
+Epileptic Seizures,Neurologist
+Tourette Syndrome,Neurologist
+Obsessive-Compulsive Disorder,Psychiatrist
+Anxiety Disorder,Psychiatrist
+Eating Disorder,Psychiatrist
+PTSD,Psychiatrist
+Insomnia,Psychiatrist
+Dissociative Identity Disorder,Psychiatrist
